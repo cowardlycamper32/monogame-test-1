@@ -1,0 +1,5 @@
+/home/nova/RiderProjects/gaaaaaame/gaaaaaame/bin/Release/net8.0/linux-x64/publish/gaaaaaame
+/home/nova/RiderProjects/gaaaaaame/gaaaaaame/bin/Release/net8.0/linux-x64/publish/Content/ball.xnb
+/home/nova/RiderProjects/gaaaaaame/gaaaaaame/bin/Release/net8.0/linux-x64/publish/gaaaaaame.pdb
+/home/nova/RiderProjects/gaaaaaame/gaaaaaame/bin/Release/net8.0/linux-x64/publish/libopenal.so.1
+/home/nova/RiderProjects/gaaaaaame/gaaaaaame/bin/Release/net8.0/linux-x64/publish/libSDL2-2.0.so.0
